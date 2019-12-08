@@ -1,0 +1,30 @@
+{
+  "count": 5,
+  "results": [
+    {
+      "id": "0",
+      "name": "Sam",
+      "hobbies": "running, hiking, reading"
+    },
+    {
+      "id": "1",
+      "name": "Jess",
+      "hobbies": "gaming, boxing, climbing"
+    },
+    {
+      "id": "2",
+      "name": "Brianna",
+      "hobbies": "karate, partying, watching tv"
+    },
+    {
+      "id": "3",
+      "name": "Sarah",
+      "hobbies": "skydiving, reading, working"
+    },
+    {
+      "id": "4",
+      "name": "Mary",
+      "hobbies": "skiing, snowboarding, bungee jumping"
+    }
+  ]
+}
